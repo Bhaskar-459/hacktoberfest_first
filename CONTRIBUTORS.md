@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: M.Bhaskar
+- Place: Vishakapatnam , India
+- Bio: Third year Cse student at Gayatri vidya parishad college of engineering
+- GitHub: [Bhaskar-459](https://github.com/Bhaskar-459)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
